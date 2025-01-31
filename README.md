@@ -3,7 +3,7 @@ Hello 👋
 **ABOUT ME**
 
 * I am Kevin Alexander, a Computer Science student at [Newcastle University](https://www.ncl.ac.uk/).
-* At the moment, I am currently on a Placement year at [MRI Software](https://www.mrisoftware.com/uk/) as a Software Engineer Intern.
+* At the moment, I am part way through my final year.
 
 
 
