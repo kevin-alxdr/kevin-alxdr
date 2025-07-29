@@ -2,8 +2,7 @@ Hello 👋
 ------
 **ABOUT ME**
 
-* I am Kevin Alexander, a Computer Science student at [Newcastle University](https://www.ncl.ac.uk/).
-* At the moment, I am part way through my final year.
+* I'm Kevin Alexander, a Computer Science Graduate at [Newcastle University](https://www.ncl.ac.uk/).
 
 
 
