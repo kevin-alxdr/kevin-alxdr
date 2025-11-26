@@ -4,7 +4,6 @@ Hello 👋
 
 * I'm Kevin Alexander, a Computer Science Graduate at [Newcastle University](https://www.ncl.ac.uk/).
 * I have a year of experience in full-stack development using C#, .NET and Angular.
-* I’m currently open to graduate/junior software engineering roles in the UK. 💼 
 
 
 **TECH STACK**
